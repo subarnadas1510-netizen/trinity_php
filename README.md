@@ -83,6 +83,7 @@ Add screenshots of the following pages:
 * Appointment Booking Page
 <img width="1331" height="635" alt="Image" src="https://github.com/user-attachments/assets/06d955ab-e989-4a6b-8519-b58f0d4d8371" />
 * Admin Login
+<img width="1349" height="627" alt="Image" src="https://github.com/user-attachments/assets/dd21d8a2-bbae-45fe-b44c-a327da7cdc4c" />
 * Admin Dashboard
 * Records Page
 * Search Page
