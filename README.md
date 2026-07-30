@@ -93,6 +93,7 @@ Add screenshots of the following pages:
 * Display Page
 <img width="1346" height="628" alt="Image" src="https://github.com/user-attachments/assets/dd3622d6-ac6f-465b-96bf-04ad1e4df954" />
 * Delete Page
+<img width="1340" height="626" alt="Image" src="https://github.com/user-attachments/assets/47e94c6a-3b6a-41c9-9d80-afa1e313c62d" />
 
 ---
 
