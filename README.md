@@ -87,6 +87,7 @@ Add screenshots of the following pages:
 * Admin Dashboard
 <img width="1332" height="622" alt="Image" src="https://github.com/user-attachments/assets/fb37db05-12e0-4ab2-a2a2-67ce96e01831" />
 * Records Page
+<img width="1343" height="633" alt="Image" src="https://github.com/user-attachments/assets/9e14b4aa-c7f9-45d4-a7b5-7354f6ad8240" />
 * Search Page
 * Display Page
 * Delete Page
