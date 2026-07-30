@@ -85,6 +85,7 @@ Add screenshots of the following pages:
 * Admin Login
 <img width="1349" height="627" alt="Image" src="https://github.com/user-attachments/assets/dd21d8a2-bbae-45fe-b44c-a327da7cdc4c" />
 * Admin Dashboard
+<img width="1332" height="622" alt="Image" src="https://github.com/user-attachments/assets/fb37db05-12e0-4ab2-a2a2-67ce96e01831" />
 * Records Page
 * Search Page
 * Display Page
