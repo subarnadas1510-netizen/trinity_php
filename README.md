@@ -91,6 +91,7 @@ Add screenshots of the following pages:
 * Search Page
 <img width="1349" height="585" alt="Image" src="https://github.com/user-attachments/assets/c9d0b594-511d-4ec9-afd3-4b5cb6b9d8fd" />
 * Display Page
+<img width="1346" height="628" alt="Image" src="https://github.com/user-attachments/assets/dd3622d6-ac6f-465b-96bf-04ad1e4df954" />
 * Delete Page
 
 ---
