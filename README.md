@@ -79,6 +79,7 @@ The project uses a MySQL database to store patient appointment details. PHP prep
 Add screenshots of the following pages:
 
 * Home Page
+<img width="1333" height="638" alt="Image" src="https://github.com/user-attachments/assets/0ec20da2-4b48-4e5f-bebf-b9ea8d206330" />
 * Appointment Booking Page
 * Admin Login
 * Admin Dashboard
