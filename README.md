@@ -89,6 +89,7 @@ Add screenshots of the following pages:
 * Records Page
 <img width="1343" height="633" alt="Image" src="https://github.com/user-attachments/assets/9e14b4aa-c7f9-45d4-a7b5-7354f6ad8240" />
 * Search Page
+<img width="1349" height="585" alt="Image" src="https://github.com/user-attachments/assets/c9d0b594-511d-4ec9-afd3-4b5cb6b9d8fd" />
 * Display Page
 * Delete Page
 
